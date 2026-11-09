@@ -1,0 +1,19 @@
+# dữ liệu và mô hình: không đưa lên git
+*.npy
+web_data/
+saved_models_torch/
+checkpoints/
+training_backup/
+gpu_training/
+__pycache__/
+.gradio/
+.claude/
+.vscode/
+# báo cáo, slide, tài nguyên
+*.pdf
+*.docx
+*.pptx
+report_assets/
+report_assets_v2/
+generate_report.py
+dataset_summary.json
